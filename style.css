@@ -1,0 +1,15 @@
+html {
+    background-color : rgb(87, 69, 69);
+}
+
+h1 {
+    color : blue;
+}
+
+.friend {
+    background-color : purple;
+}
+
+.friend h3 {
+    text-transform : uppercase
+}
